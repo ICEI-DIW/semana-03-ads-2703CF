@@ -21,4 +21,4 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Print da home-page criada
 
-<< ![alt text](public/Imagens/Home Page/HomePage.jpg.png) >>
+<< ![alt text](public/Imagens/HomePage/HomePage.png) >>
