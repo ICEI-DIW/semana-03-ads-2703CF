@@ -1,5 +1,71 @@
-.Imagem
-{
-width: 200px;
-height: 200px;
+body{
+    background-color: rgb(143, 143, 143);
+    margin: 0px;
+}
+
+.form-login{
+    margin-top: -50px;
+}
+
+#title{
+    margin-left: 700px;
+}
+
+.Bandeira{
+    height: 250px;
+    margin: 10px 10px 10px 0px;
+    width: 350px;
+    border-radius: 50px;
+    margin-left: 750px;
+    padding: 15px;
+}
+
+.Imagem{
+    height: 250px;
+    margin: 10px 10px 10px 100px;
+    width: 350px;
+    border-radius: 590px;
+    margin-left: 10px;
+}
+
+.texto1 {
+    margin: 0px 1525px 0px 0px;
+    text-align: center;
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.texto2 {
+    margin: -36px 366px 0px -400px;
+    text-align: center;
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+.texto3 {
+    margin: -37px 170px 0px 150px;
+    text-align: center;
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+.texto4 {
+    margin: -37px 260px 100px 1000px;
+    text-align: center;
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+.texto5 {
+    margin: -135px 100px 78px 1590px;
+    text-align: center;
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+footer{
+   text-align: center;
+   background-color: black;
+   color: white;
+   padding: 5px;
 }

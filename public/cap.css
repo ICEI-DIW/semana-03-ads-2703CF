@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(143, 143, 143);
+    margin: 0px;
+}
+
+.Bandeira{
+    height: 250px;
+    margin: 10px 10px 10px 0px;
+    width: 350px;
+    border-radius: 990px;
+    margin-left: 760px;
+    padding: 15px;
+}
+
+.form-login{
+    margin-top: -50px;
+}
+
+
+#title{
+   text-align: center;
+}
+
+main>a>img{
+    height: 430px;
+    width: 590px;
+    margin: 10px 10px 100px 660px;
+
+}
+
+footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 5px;
+ }
+
+
+a{
+    text-decoration: none;
+    color: black;
+}
