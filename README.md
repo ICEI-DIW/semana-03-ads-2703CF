@@ -11,7 +11,7 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 - Nome: Christian Fernandes Herculano Alberto
 - Matricula:892119.
 - Proposta de projeto escolhida: Guia Turístico
-- Breve descrição sobre seu projeto: Um guia turístico sobre Minas Gerais, voltado para uma pessoa que não conhece o estado e quer conhecer pontos importantes, famosos e ter um contato com a natureza.
+- Breve descrição sobre seu projeto: Um guia turístico sobre Minas Gerais, voltado para uma pessoa que não conhece o belo estado e quer conhecer pontos importantes, famosos e ter um contato com a natureza.
 
 
 ## Print do esboço criada

@@ -40,3 +40,11 @@ a{
     text-decoration: none;
     color: black;
 }
+
+.Lugar{
+    height: 350px;
+    width: 550px;
+    border-radius: 100px;
+    margin-left: 610px;
+    padding: 40px;
+}
